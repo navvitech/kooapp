@@ -1,5 +1,5 @@
 # Login credentials.
- username: kooapp@gmail.com 
+ username: kooapp@gmail.com \
  password: kooapp
 
 # Getting Started with Create React App
