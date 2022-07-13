@@ -6,7 +6,7 @@ In this project i implemented a captcha system, where it will ask the user to en
  password: kooapp
 
 ### UI
-[UI](https://res.cloudinary.com/navtech/image/upload/v1657688118/Screenshot_2022-07-13_at_10.23.21_AM_p3hrzm.png)
+![UI](https://res.cloudinary.com/navtech/image/upload/v1657688118/Screenshot_2022-07-13_at_10.23.21_AM_p3hrzm.png)
 
 # Getting Started with Create React App
 
